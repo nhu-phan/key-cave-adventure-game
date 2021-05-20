@@ -2,7 +2,6 @@
 CSSE1001 Assignment 3
 Semester 2, 2020
 Student: Nhu Phan 
-Student ID: s4397098
 
 Tested in Window and everything works well
 Tested on Mac - position of ibis at the end is a bit weird
